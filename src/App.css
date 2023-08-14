@@ -1,5 +1,10 @@
 body {
   background-color: lightblue;
+  margin-top: 0px;
+  padding-left: 300px;
+  padding-right: 300px;
+  border: black solid;
+  margin-left: 100px;
 }
 
 .cheader {
@@ -10,6 +15,7 @@ body {
 
 .ctypes {
   background-color: bisque;
+  
 }
 
 .App {
